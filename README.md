@@ -16,3 +16,8 @@
 
 
 ## Credit
+
+- sources of knowledge for hacking this/code inspiration:
+    - [guide](https://gjs.guide/guides/gio/file-operations.html#writing-file-contents)
+    - [one thing extension](https://github.com/one-thing-gnome/one-thing)
+    - [clip note extension](https://github.com/eexpress/gnome-shell-clip-note) for *working* file save process
